@@ -1,0 +1,16 @@
+ 4 ls -l
+   5 ls | Format-List
+   6 git init
+   7 ls -a
+   8 ls -Force
+   9 git status
+  10 git add testing.py
+  11 git status
+  12 git rm --chached testing.py
+  13 git rm --cached testing.py
+  14 git status
+  15 git add testing.py
+  16 git status
+  17 git command -m "adding testing files"
+  18 git commit -m "adding testing files"
+  19 git status
