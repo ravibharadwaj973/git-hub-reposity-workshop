@@ -37,3 +37,5 @@
   40 git remote -v
   41 git push origin master
   42 chal chal ke dikha tuje malyong hai ki na
+
+43 maine bola  kya mam kesa hai re tu wo bol ta kya mam call nhi kr ta maine bola chup teri ma ki 
