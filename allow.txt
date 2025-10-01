@@ -12,5 +12,28 @@
   15 git add testing.py
   16 git status
   17 git command -m "adding testing files"
-  18 git commit -m "adding testing files"
+   
   19 git status
+ 
+  21 git status
+  22 git status
+  23 git log --oneline
+  24 rm testing.py
+  25 git status
+  26 git restore testing.py
+  27 clear
+  28 history
+  29 git add allow.txt
+  30 git status
+ 
+  32 git status
+  33 git rm allow.txt
+  34 rm allow.txt
+  35 git checkout HEAD -- allow.txt
+  g
+  37 git status
+  38 git remote -v
+
+  40 git remote -v
+  41 git push origin master
+  42 chal chal ke dikha tuje malyong hai ki na
