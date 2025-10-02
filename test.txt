@@ -1,0 +1,3 @@
+PS C:\Users\jhara\Videos\Captures\git-for-devops\.git> git branch
+* dev
+  mastergit
