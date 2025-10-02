@@ -1,0 +1,6 @@
+PS C:\Users\jhara\Videos\Captures\git-for-devops\.git> git branch
+* dev
+  mastergit
+
+  now it is updated 
+change from githib
